@@ -5,5 +5,6 @@ To ensure that code is functional or secure, there are many different approaches
 
 -How do I interpret user needs and incorporate them into a program?
 User needs are one of the most important things to take into account when designing software. Of these needs, the most important would be what would be designated as requirements. Knowing what is needed for the app to at least satisfy the user in the most basic form is a strong way to approach software design. Secondly, feedback throughout the development process is important to have software to satisfies users.
+
 -How do I approach designing software?
 To desgin software, we must first have an overall idea of what we are trying to design. Although ideas can be tweaked as they go, have a guideline or endgoal is stronger than having a vague idea of what to do. For example, planning what functions to have will allow a developer to design the software with a stronger code quality.
